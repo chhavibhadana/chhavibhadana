@@ -13,8 +13,8 @@ I'm Chhavi Bhadana, a passionate data enthusiast and aspiring data scientist. We
 
 Here are some of the projects I've been working on:
 
-1. **Skin Cancer Detection with CNN(https://github.com/chhavibhadana/AI-Project/tree/main)**: A brief description of what this project is about.
-2. **Automation of Emails(https://github.com/chhavibhadana/Automated-Email-)**: Another exciting project I've contributed to.
+1. **Skin Cancer Detection with CNN(https://github.com/chhavibhadana/AI-Project/tree/main)**
+2. **Automation of Emails(https://github.com/chhavibhadana/Automated-Email-)**
 3. 
 ## Skills
 
