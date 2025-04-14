@@ -4,7 +4,7 @@ I'm Chhavi Bhadana, a passionate data enthusiast and aspiring data scientist. We
 
 ## About Me
 
-- 🌱 I'm currently pursuing a post-graduate program in **Data Science and Machine Learning**.
+- 🌱 I have a PGP certification in **Data Science and Machine Learning**.
 - 💡 I'm curious about all things data-related and love diving into complex datasets.
 - 📊 My interests include data visualization, predictive modeling, and natural language processing.
 - 📊 I love solving business probelms with data tools
