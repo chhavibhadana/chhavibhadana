@@ -14,8 +14,10 @@ I'm Chhavi Bhadana, a passionate data enthusiast and aspiring data scientist. We
 - Python 🐍
 - Pandas 🐼
 - Scikit-learn 🤖
-- SQL 📊
-- PowerBi
+- PyTorch
+- Cursor
+- VibeCoding
+- Figma
 
 ## Let's Connect!
 
