@@ -7,7 +7,14 @@ I'm Chhavi Bhadana, a passionate data enthusiast and aspiring data scientist. We
 - 🌱 I have a PGP certification in **Data Science and Machine Learning**.
 - 💡 I love building products and systems are are user centric and scalable
 - 📊 My interests include ML, AI, GenAI and Vibe Coding
-- I am addicted to coffee and functional tools 
+- I am addicted to coffee and functional tools
+
+## Projects
+
+- [Movie Recommender](https://github.com/chhavibhadana/movie-recommendation-system)
+- [Customer Churn](https://github.com/chhavibhadana/customer-churn)
+- [PromptForge (WIP)]
+
 
 ## Skills
 
